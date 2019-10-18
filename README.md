@@ -10,9 +10,9 @@ This app allows users to browse movies currently playing in theaters. Data is fe
 * Sends a test request to the Movie Database API
 * Utilizes one reusable cell 
 
-## Built With
+## Languages & Technologies
 * Swift 5.1 (language)
 * XCode 11.1 (IDE)
 
 ## Acknowledgements
-* CodePath iOS University Class 
+* CodePath iOS University class
