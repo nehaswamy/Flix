@@ -10,6 +10,28 @@ This app allows users to browse movies currently playing in theaters. Data is fe
 * Sends a test request to the Movie Database API
 * Utilizes one reusable cell 
 
+## Movies Included
+- [x] Joker
+- [x] El Camno: A Breaking Bad Movie
+- [x] Gemini Man
+- [x] Toy Story 4
+- [x] It Chapter Two
+- [x] Maleficent: Mistress of Evil
+- [x] Ip Man 4: The Finale
+- [x] John Wick: Chapter 3 - Parabellum
+- [x] Zombieland: Double Tap
+- [x] Once Upon a Time... in Hollywood
+- [x] Rambo: Last Blood 
+- [x] The Addams Family
+- [x] The Mystery of the Dragon's Seal
+- [x] Once Piece: Stampede
+- [x] Anna
+- [x] The Lighthouse 
+- [x] Crawl
+- [x] Hustlers
+- [x] Stuber
+- [x] Terminator: Dark Fate
+
 ## Languages & Technologies
 * Swift 5.1 (language)
 * XCode 11.1 (IDE)
