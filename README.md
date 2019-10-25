@@ -1,9 +1,18 @@
 # Flix
 
-## About
-This app allows users to browse movies currently playing in theaters. Data is fetched from The Movie Database API. The app utilizes a UITableViewController with individual cells containing the movie poster, title, and synopsis. 
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-![Image of App](https://github.com/nehaswamy/Flix/blob/master/Flix-Overview.gif)
+---
+
+## Flix Part 1
+
+### User Stories
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
+
+### App Walkthough GIF
+<img src="https://github.com/nehaswamy/Flix/blob/master/Flix-Overview.gif" width=250><br>
 
 ## Features
 * UITableViewController that holds cells
